@@ -43,7 +43,7 @@ module.exports = {
               collapsable: false,
               children: [
                 'default-modules/adempiere-api/api',
-                'default-modules/adempiere-api/core',
+                'default-modules/adempiere-api/common',
                 'default-modules/adempiere-api/img',
                 'default-modules/adempiere-api/user',
                 'default-modules/adempiere-api/user-interface',
@@ -110,7 +110,7 @@ module.exports = {
               collapsable: true,
               children: [
                 'default-modules/adempiere-api/api',
-                'default-modules/adempiere-api/core',
+                'default-modules/adempiere-api/common',
                 'default-modules/adempiere-api/img',
                 'default-modules/adempiere-api/user',
                 'default-modules/adempiere-api/user-interface',
